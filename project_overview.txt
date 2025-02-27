@@ -1,0 +1,1 @@
+this project is about SCM to perform and demonstrate few operations using git and github
